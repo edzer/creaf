@@ -1,7 +1,7 @@
 ---
 title: "Spatial Data Science with R"
 author: "Edzer Pebesma, @edzerpebesma"
-date: "Jul 11, 2019, CREAF talks"
+date: "Jul 11, 2019, CREAF talks: https://edzer.github.com/creaf/"
 output: 
   ioslides_presentation:
     logo: logo.png
