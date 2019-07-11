@@ -1,0 +1,7 @@
+"Spatial Data Science with R"
+ 
+Summary
+
+R has come a long way in becoming one of the main software environments for statistics and data science. Since its early days, there has always been a strong involvement of spatial statisticians in R. Reproducibility of computational research, which scientists often like to preach but rarely practice, is a key reason for many to use R or other open source computing environments.  In the talk I will discuss how R is used for spatial problems, how it tries to break from the restrictive 1980s GIS metaphor that the world consists of map layers, and how modern developments (e.g. data base connections, tidyverse) have helped developing modern spatial packages. I will also discuss the need, and value, of integrating the OSGEO software stack (GDAL, GEOS, PROJ) in R, and what this requires from e.g. the CRAN team. Finally I will shed some light on recent developments aiming at reproducible analysis of large amounts of satellite imagery, mainly carried out in the context of the H2020-funded openEO (https://openeo.org/) project.
+
+
